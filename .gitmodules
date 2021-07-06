@@ -1,0 +1,3 @@
+[submodule "extmodules/nextflow-hello-dsl2"]
+	path = extmodules/nextflow-hello-dsl2
+	url = git@github.com:wbazant/nextflow-hello-dsl2.git
